@@ -18,7 +18,7 @@ Este programa en ensamblador MIPS genera la serie Fibonacci según la cantidad d
 
 ## Uso
 1. Abre MARS 4.5.
-2. Abre el archivo `ApellidoNombre_Fibonacci.asm` en MARS.
+2. Abre el archivo `SanchezVictor_Fibonacci.asm` en MARS.
 3. Haz clic en el botón "Assemble" (icono de llave inglesa) para ensamblar el código.
 4. Haz clic en el botón "Run" (icono de play) para ejecutar el programa.
 5. Sigue las instrucciones en la consola de MARS para ingresar la cantidad de números de la serie Fibonacci que deseas generar.
